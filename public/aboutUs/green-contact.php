@@ -171,7 +171,7 @@ $pagename = "contact";
     <!-- animation -->
     <link rel="stylesheet" href="../css/animate.css">
     <!-- Main css -->
-    <link href="../css/style.css" rel="stylesheet">
+    <link href="../css/green-style.css" rel="stylesheet">
 
     <!-- jQuery and Bootstrap -->
     <script type="text/javascript" src="../js/jquery-3.2.1.min.js"></script>

@@ -34,6 +34,7 @@
               <li><a href="#" class="p-2"><span class="fa fa-facebook"></span></a></li>
               <li><a href="#" class="p-2"><span class="fa fa-linkedin"></span></a></li>
               <li><a href="#" class="p-2"><span class="fa fa-instagram"></span></a></li>
+              <li><a href="../green-index.php" class="p-2"><span class="fa fa-exchange"></span></a></li>
             </ul>
           </div>
         </div>

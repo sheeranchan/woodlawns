@@ -4,7 +4,7 @@
           <div class="col-md-3 mb-5">
             <h3>About Woodlawns</h3>
             <p>We are the only independently run older people’s day centre in the London Borough of Lambeth. The centre is also home several charities including the Lambeth Asian Centre and Make A Difference Black Afro-Caribbean Group and Lambeth Carers.</p>
-            <p><a href="aboutUs/about.php">Learn More</a></p>
+            <p><a href="../aboutUs/green-about.php">Learn More</a></p>
           </div>
           <div class="col-md-3 mb-5">
 
@@ -18,13 +18,13 @@
           <div class="col-md-3 mb-5">
             <h3>Quick Links</h3>
             <ul class="list-unstyled footer-link">
-              <li><a href="aboutUs/about.php">About Us</a></li>
-              <li><a href="aboutUs/history.php">History</a></li>
-              <li><a href="aboutUs/mission.php">Our Mission</a></li>
+              <li><a href="../aboutUs/green-about.php">About Us</a></li>
+              <li><a href="../aboutUs/green-history.php">History</a></li>
+              <li><a href="../aboutUs/green-mission.php">Our Mission</a></li>
               <li><a href="#">Privacy Policy</a></li>
               <li><a href="#">Terms of Use</a></li>
-              <li><a href="aboutUs/currentUsers.php">Current Users</a></li>
-              <li><a href="aboutUs/contactUs.php">Contact Us</a></li>
+              <li><a href="../aboutUs/green-currentUsers.php">Current Users</a></li>
+              <li><a href="../aboutUs/green-contactUs.php">Contact Us</a></li>
             </ul>
           </div>
           <div class="col-md-3">
@@ -34,7 +34,7 @@
               <li><a href="#" class="p-2"><span class="fa fa-facebook"></span></a></li>
               <li><a href="#" class="p-2"><span class="fa fa-linkedin"></span></a></li>
               <li><a href="#" class="p-2"><span class="fa fa-instagram"></span></a></li>
-              <li><a href="green-index.php" class="p-2"><span class="fa fa-exchange"></span></a></li>
+              <li><a href="../index.php" class="p-2"><span class="fa fa-exchange"></span></a></li>
             </ul>
           </div>
         </div>
@@ -53,9 +53,9 @@
     <!-- loader -->
     <div id="loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#f4b214"/></svg></div>
 
-    <script src="js/jquery-3.2.1.min.js"></script>
-    <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="js/jquery.waypoints.min.js"></script>
-    <script src="js/main.js"></script>
+    <script src="../js/jquery-3.2.1.min.js"></script>
+    <script src="../js/popper.min.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+    <script src="../js/owl.carousel.min.js"></script>
+    <script src="../js/jquery.waypoints.min.js"></script>
+    <script src="../js/main.js"></script>

@@ -39,7 +39,7 @@
     </div>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <div class="container">
-          <a class="navbar-brand" href="/"><span class="mobile-icon"> <img src="../img/favico.png" height="35" alt="logo image">Woodlawns</span></a>
+          <a class="navbar-brand" href="../green-index.php"><span class="mobile-icon"> <img src="../img/favico.png" height="35" alt="logo image">Woodlawns</span></a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample05" aria-controls="navbarsExample05" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -47,43 +47,43 @@
         <div class="collapse navbar-collapse" id="navbarsExample05">
           <ul class="navbar-nav ml-auto pl-lg-5 pl-0">
             <li class="nav-item">
-              <a class="nav-link" href="/">Home</a>
+              <a class="nav-link" href="../green-index.php">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="../WLProgrammes.php">Woodlawns Programmes</a>
+              <a class="nav-link" href="../green-WLProgrammes.php">Woodlawns Programmes</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="../news.php">News</a>
+              <a class="nav-link" href="../green-news.php">News</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="../gallery.php">Gallery</a>
+              <a class="nav-link" href="../green-gallery.php">Gallery</a>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Room Letting</a>
               <div class="dropdown-menu" aria-labelledby="dropdown01">
-                <a class="dropdown-item" href="../functionalRooms.php">Functional Rooms</a>
-                <a class="dropdown-item" href="../offices.php">Offices</a>
+                <a class="dropdown-item" href="../green-functionalRooms.php">Functional Rooms</a>
+                <a class="dropdown-item" href="../green-offices.php">Offices</a>
               </div>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="dropdown02" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Membership & Volunteers</a>
               <div class="dropdown-menu" aria-labelledby="dropdown02">
-                <a class="dropdown-item" href="../membership.php">Membership</a>
-                <a class="dropdown-item" href="../volunteers.php">Become Our Volunteers</a>
+                <a class="dropdown-item" href="../green-membership.php">Membership</a>
+                <a class="dropdown-item" href="../green-volunteers.php">Become Our Volunteers</a>
               </div>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle active" href="#" id="dropdown03" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About Us</a>
               <div class="dropdown-menu" aria-labelledby="dropdown03">
-                <a class="dropdown-item" href="about.php">About Woodlawns</a>
-                <a class="dropdown-item" href="history.php">History</a>
-                <a class="dropdown-item" href="mission.php">Our Mission</a>
-                <a class="dropdown-item" href="currentUsers.php">Current Users</a>
-                <a class="dropdown-item" href="biography.php">Cheryl Biography</a>
-                <a class="dropdown-item" href="team.php">Our Team</a>
-                <a class="dropdown-item" href="supporters.php">Supporters</a>
-                <a class="dropdown-item active" href="partners.php">Partners</a>
-                <a class="dropdown-item" href="contactUs.php">Contact Us</a>
+                <a class="dropdown-item" href="green-about.php">About Woodlawns</a>
+                <a class="dropdown-item" href="green-history.php">History</a>
+                <a class="dropdown-item" href="green-mission.php">Our Mission</a>
+                <a class="dropdown-item" href="green-currentUsers.php">Current Users</a>
+                <a class="dropdown-item" href="green-biography.php">Cheryl Biography</a>
+                <a class="dropdown-item" href="green-team.php">Our Team</a>
+                <a class="dropdown-item" href="green-supporters.php">Supporters</a>
+                <a class="dropdown-item active" href="green-partners.php">Partners</a>
+                <a class="dropdown-item" href="green-contactUs.php">Contact Us</a>
               </div>
             </li>
           </ul>
@@ -103,8 +103,8 @@
               <h1>Partners</h1>
               <nav aria-label="breadcrumb">
                 <ol class="breadcrumb breadcrumb-custom">
-                  <li class="breadcrumb-item"><a href="/">Home</a></li>
-                  <li class="breadcrumb-item"><a href="about.php">About Us</a></li>
+                  <li class="breadcrumb-item"><a href="../green-index.php">Home</a></li>
+                  <li class="breadcrumb-item"><a href="green-about.php">About Us</a></li>
                   <li class="breadcrumb-item active" aria-current="page">Partners</li>
                 </ol>
               </nav>
@@ -167,6 +167,6 @@
 
 
 
-  <?php include_once 'aboutUs_footer.php' ?>
+  <?php include_once 'green-aboutUs_footer.php' ?>
   </body>
 </html>
