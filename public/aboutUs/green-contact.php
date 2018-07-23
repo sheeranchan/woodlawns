@@ -252,7 +252,7 @@ $pagename = "contact";
                 }
             }
             if ($banned_ip == 0) {
-                echo "<input type=\"submit\" name=\"Submitted\"  class=\"btn btn-primary margin-btm-5 float-right\" value=\"Send\" style=\"margin-left: 525px; margin-top: 5px;\" />";
+                echo "<input type=\"submit\" name=\"Submitted\"  class=\"btn btn-primary margin-btm-5 float-right\" value=\"Send\" style=\"margin-left: 525px; margin-top: 5px; background-color: #037f51; border-color: #037f51;\" />";
             }
             ?>
         </form>

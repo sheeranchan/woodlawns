@@ -2,34 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb8bb1ee-6989-4b6f-924b-531242172e27" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/public/aboutUs/green-about.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aboutUs/green-aboutUs_footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aboutUs/green-biography.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aboutUs/green-contact.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aboutUs/green-contactUs.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aboutUs/green-currentUsers.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aboutUs/green-history.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aboutUs/green-mission.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aboutUs/green-partners.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aboutUs/green-supporters.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aboutUs/green-team.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aboutUs/green-thankyou.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/green-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/green-WLProgrammes.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/green-footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/green-functionalRooms.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/green-gallery.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/green-index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/green-membership.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/green-news.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/green-offices.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/green-volunteers.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/WLProgrammes.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/WLProgrammes.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/aboutUs/aboutUs_footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/aboutUs/aboutUs_footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/aboutUs/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/aboutUs/contact.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/aboutUs/partners.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/aboutUs/partners.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/aboutUs/green-contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/aboutUs/green-contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/green-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/green-style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/green-index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/green-index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,11 +19,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="green-contactUs.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/aboutUs/green-contactUs.php">
+      <file leaf-file-name="green-index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/green-index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="175" column="28" lean-forward="true" selection-start-line="175" selection-start-column="28" selection-end-line="175" selection-end-column="28" />
+            <state relative-caret-position="-47">
+              <caret line="228" column="134" selection-start-line="228" selection-start-column="134" selection-end-line="228" selection-end-column="134" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#2;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#p#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="green-contact.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/aboutUs/green-contact.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="254" column="225" selection-start-line="254" selection-start-column="225" selection-end-line="254" selection-end-column="225" />
+              <folding>
+                <element signature="e#6#542#0#PHP" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -65,6 +62,10 @@
       <find>About</find>
       <find>@media</find>
       <find>crumb</find>
+      <find>#nc5148</find>
+      <find>btn-primary</find>
+      <find>.btn-primary</find>
+      <find>background-color</find>
       <find>#bc5148</find>
     </findStrings>
     <replaceStrings>
@@ -78,7 +79,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/public/supporters.html" />
         <option value="$PROJECT_DIR$/public/contact.html" />
         <option value="$PROJECT_DIR$/public/contactUs.php" />
         <option value="$PROJECT_DIR$/public/aboutUs/biography.html" />
@@ -99,12 +99,10 @@
         <option value="$PROJECT_DIR$/public/aboutUs/supporters.php" />
         <option value="$PROJECT_DIR$/public/aboutUs/team.php" />
         <option value="$PROJECT_DIR$/public/css/style.css" />
-        <option value="$PROJECT_DIR$/public/css/green-style.css" />
         <option value="$PROJECT_DIR$/public/news.php" />
         <option value="$PROJECT_DIR$/public/aboutUs/partners.php" />
         <option value="$PROJECT_DIR$/public/gallery.php" />
         <option value="$PROJECT_DIR$/public/footer.php" />
-        <option value="$PROJECT_DIR$/public/green-index.php" />
         <option value="$PROJECT_DIR$/public/green-functionalRooms.php" />
         <option value="$PROJECT_DIR$/public/green-gallery.php" />
         <option value="$PROJECT_DIR$/public/green-membership.php" />
@@ -127,8 +125,11 @@
         <option value="$PROJECT_DIR$/public/aboutUs/green-team.php" />
         <option value="$PROJECT_DIR$/public/aboutUs/green-aboutUs_footer.php" />
         <option value="$PROJECT_DIR$/public/aboutUs/contact.php" />
-        <option value="$PROJECT_DIR$/public/aboutUs/green-contact.php" />
         <option value="$PROJECT_DIR$/public/aboutUs/green-contactUs.php" />
+        <option value="$PROJECT_DIR$/public/css/green-style.css" />
+        <option value="$PROJECT_DIR$/public/css/green-bootstrap.css" />
+        <option value="$PROJECT_DIR$/public/green-index.php" />
+        <option value="$PROJECT_DIR$/public/aboutUs/green-contact.php" />
       </list>
     </option>
   </component>
@@ -272,6 +273,12 @@
               <item name="public" type="462c0819:PsiDirectoryNode" />
               <item name="aboutUs" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="woodlawns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="woodlawns" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -293,9 +300,9 @@
       <recent name="$PROJECT_DIR$/public/img/membership" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/css" />
       <recent name="$PROJECT_DIR$/public/aboutUs" />
       <recent name="$PROJECT_DIR$/public" />
-      <recent name="$PROJECT_DIR$/public/css" />
       <recent name="$PROJECT_DIR$/public/js" />
       <recent name="$PROJECT_DIR$/public/scss" />
     </key>
@@ -323,12 +330,12 @@
       <option name="presentableId" value="Default" />
       <updated>1531776834782</updated>
       <workItem from="1531776838759" duration="7134000" />
-      <workItem from="1532211664495" duration="37885000" />
+      <workItem from="1532211664495" duration="39217000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45019000" />
+    <option name="totallyTimeSpent" value="46351000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
@@ -363,26 +370,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/img/favico.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/aboutUs/currentUsers.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/aboutUs/thankyou.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/img/subpage/header/history_header.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/img/subpage/header/biography_header.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -424,20 +411,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/img/subpage/header/team_header.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/green-style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -614,13 +587,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/green-index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="341" column="4" selection-start-line="341" selection-start-column="4" selection-end-line="341" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/green-membership.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
@@ -677,18 +643,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/aboutUs/green-contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="261" column="7" lean-forward="true" selection-start-line="261" selection-start-column="7" selection-end-line="261" selection-end-column="7" />
-          <folding>
-            <element signature="e#6#542#0#PHP" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/aboutUs/contact.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="265">
@@ -700,10 +654,97 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/aboutUs/green-contactUs.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="172" column="40" lean-forward="true" selection-start-line="172" selection-start-column="40" selection-end-line="172" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/green-style.css">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="175" column="28" lean-forward="true" selection-start-line="175" selection-start-column="28" selection-end-line="175" selection-end-column="28" />
+          <caret line="1094" column="18" selection-start-line="1094" selection-start-column="2" selection-end-line="1094" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/bootstrap.css.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4354" />
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/green-bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="5" column="22508" selection-start-line="5" selection-start-column="22508" selection-end-line="5" selection-end-column="22508" />
+          <folding>
+            <element signature="e#59222#59422#2" expanded="true" />
+            <element signature="e#59544#59693#2" expanded="true" />
+            <element signature="e#59839#59985#2" expanded="true" />
+            <element signature="e#60491#60654#1" expanded="true" />
+            <element signature="e#71207#71450#2" expanded="true" />
+            <element signature="e#72349#72598#2" expanded="true" />
+            <element signature="e#100278#100468#2" expanded="true" />
+            <element signature="e#100514#100704#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/scss/_carousel.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1007">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="5" column="101207" selection-start-line="5" selection-start-column="101207" selection-end-line="5" selection-end-column="101207" />
+          <folding>
+            <element signature="e#59222#59422#2" expanded="true" />
+            <element signature="e#59544#59693#2" expanded="true" />
+            <element signature="e#59839#59985#2" expanded="true" />
+            <element signature="e#60491#60654#1" expanded="true" />
+            <element signature="e#71207#71450#2" expanded="true" />
+            <element signature="e#72349#72598#2" expanded="true" />
+            <element signature="e#100278#100468#2" expanded="true" />
+            <element signature="e#100514#100704#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/green-index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-47">
+          <caret line="228" column="134" selection-start-line="228" selection-start-column="134" selection-end-line="228" selection-end-column="134" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#2;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#1;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/aboutUs/green-contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="254" column="225" selection-start-line="254" selection-start-column="225" selection-end-line="254" selection-end-column="225" />
+          <folding>
+            <element signature="e#6#542#0#PHP" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -102,7 +102,7 @@
               <!--<span class="child-name cursive">Events for older community</span>-->
               <h1>Events for older community</h1>
               <!--<p>Woodlawns Community Centre is at the heart of Lambeth’s older community.  We organise a variety of activities and events tailored to engage, entertain and serve the needs of our older age groups. We welcome both members and non-members alike, and for a very small fee, our activities are great value.</p>-->
-              <p><a href="aboutUs/about.php" class="btn btn-primary margin-top-5">More Details</a></p>
+              <p><a href="aboutUs/about.php" class="btn btn-primary margin-top-5" style="background-color: #037f51;border-color: #037f51;">More Details</a></p>
             </div>
           </div>
         </div>
@@ -115,7 +115,7 @@
               <!--<span class="child-name cursive">Mark Rodriguez, 12 yrs. old</span>-->
               <h1>Our room letting help raising funds for the senior community</h1>
               <!--<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi unde impedit, necessitatibus, soluta sit quam minima expedita atque corrupti reiciendis.</p>-->
-              <p><a href="functionalRooms.php" class="btn btn-primary margin-top-5">Book Here</a></p>
+              <p><a href="functionalRooms.php" class="btn btn-primary margin-top-5" style="background-color: #037f51;border-color: #037f51;">Book Here</a></p>
             </div>
           </div>
         </div>
@@ -128,7 +128,7 @@
               <!--<span class="child-name cursive">Events for older community</span>-->
               <h1>Become our volunteers</h1>
               <!--<p>Woodlawns Community Centre is at the heart of Lambeth’s older community.  We organise a variety of activities and events tailored to engage, entertain and serve the needs of our older age groups. We welcome both members and non-members alike, and for a very small fee, our activities are great value.</p>-->
-              <p><a href="volunteers.php" class="btn btn-primary margin-top-5">Register Here</a></p>
+              <p><a href="volunteers.php" class="btn btn-primary margin-top-5" style="background-color: #037f51;border-color: #037f51;">Register Here</a></p>
             </div>
           </div>
         </div>
@@ -226,7 +226,7 @@
           <div class="col-md-8 text-center">
             <h2 class="text-uppercase heading mb-4">Upcoming events</h2>
             <p class="mb-5 lead">If you are looking some interesting events we host for elderly groups, please check them here</p>
-            <p class="mb-0"><a href="WLProgrammes.php" class="btn btn-primary">Find More Upcoming Events <span class="icon-arrow"></span></a></p>
+            <p class="mb-0"><a href="WLProgrammes.php" class="btn btn-primary" style="background-color: #037f51;border-color: #037f51;">Find More Upcoming Events <span class="icon-arrow"></span></a></p>
           </div>
         </div>
         <div class="row element-animate">

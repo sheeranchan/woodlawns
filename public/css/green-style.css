@@ -78,8 +78,8 @@ textarea.form-control {
 }
 
 .btn.btn-primary:hover, .btn.btn-primary:active, .btn.btn-primary:focus {
-  border-color: #ca746d;
-  background: #ca746d;
+  border-color: #037f35;
+  background: #037f35;
 }
 
 .btn.btn-sm {
@@ -310,8 +310,8 @@ header .navbar .cta-btn a {
 
 header .navbar .cta-btn a:hover {
   color: #fff !important;
-  -webkit-box-shadow: 2px 0 30px -5px rgba(188, 81, 72, 0.9);
-  box-shadow: 2px 0 30px -5px rgba(188, 81, 72, 0.9);
+  -webkit-box-shadow: 2px 0 30px -5px #037f35;
+  box-shadow: 2px 0 30px -5px #037f25;
 }
 
 .cta-overlap {
